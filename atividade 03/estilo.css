@@ -1,0 +1,52 @@
+.cabe{
+    background-color: rgb(116, 110, 110);
+    color: antiquewhite;
+}
+.main{
+    display: grid;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
+.img1{
+    padding: 1rem;
+    width: 400px;
+    height: auto;
+}
+.img2{
+    padding: 1rem;
+    width: 400px;
+    height: auto;
+}
+.img3{
+    padding: 1rem;
+    width: 400px;
+    height: auto;
+}
+.img4{
+    padding: 1rem;
+    width: 400px;
+    height: auto;
+}
+hr{
+    color: antiquewhite;
+}
+body{
+    padding: 1rem;
+    background-color: rgb(90, 88, 86);
+    color: antiquewhite;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
+a{
+    color: rgb(148, 148, 240);
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+}
+html{
+    font-family: "prompt", sans-serif;
+}
